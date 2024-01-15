@@ -1,3 +1,1 @@
-Document the project
-
-This is a test
+VR_GameFleadh - This was a project done for global warning awarness for the Game Fleadh 2022 where the user uses locomotion to transverse around the scene, to pick up rubbish and throw it into a basketball hoop in a certain timeframe.
